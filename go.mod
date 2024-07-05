@@ -1,4 +1,4 @@
-module github.com/jason0-costello/memongo
+module github.com/jason-costello/memongo
 
 require (
 	github.com/acobaugh/osrelease v0.0.0-20181218015638-a93a0a55a249
